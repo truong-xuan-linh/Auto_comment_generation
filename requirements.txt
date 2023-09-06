@@ -1,0 +1,5 @@
+torch==2.0.1
+gdown
+transformers==4.32.0
+Pillow==9.5.0
+streamlit==1.26.0

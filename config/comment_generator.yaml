@@ -1,0 +1,7 @@
+model:
+  device: cpu
+  url: https://drive.google.com/uc?id=1-Fyh5nBbbUKwVayg3USuSYtjJQcmuFrV
+  dir: ./storage/last_vit_base_vit5_base_input_256_output_32_v4_thresh_2.0.pt
+  input_maxlen: 256
+  output_maxlen: 32
+  num_comment: 10
